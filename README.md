@@ -1,5 +1,4 @@
 ![alt text](assets/banner.jpg)
-
 # Deepvoice3_pytorch
 
 [![PyPI](https://img.shields.io/pypi/v/deepvoice3_pytorch.svg)](https://pypi.python.org/pypi/deepvoice3_pytorch)
